@@ -69,7 +69,7 @@ nav{
     max-width: 585px;
 }
 #banner{
-    border: 1px solid red;
+    
     margin: 47px 38px 0px 230px ;
     display: flex;
     justify-content: space-between;
