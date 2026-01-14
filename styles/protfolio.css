@@ -102,3 +102,17 @@ nav{
     max-width: 585px;
      vertical-align: middle;
 }
+
+
+/* footer section */
+footer{
+    background-color: #FFF8F3;
+    height: 780px;
+    width: 1600px;
+    display: flex;
+    
+}
+.footer-mn{
+    
+
+}
