@@ -110,9 +110,22 @@ footer{
     height: 780px;
     width: 1600px;
     display: flex;
+    margin-top: 150px ;
     
 }
 .footer-mn{
-    
+    padding: 74px 485px  85px 171px;
+    tab-size: 20px ;
+}
+.image{
+    display: flex;
+    list-style: none;
+    gap: 24px ;
+    padding: 30px ;
+}
 
+
+.text-name{
+    gap: 24px ;
+    
 }
